@@ -17,3 +17,4 @@ app.include_router(routers.main.router)
 if __name__ == "__main__":
     # Debug-only configuration
     uvicorn.run(app)
+print("hello")
