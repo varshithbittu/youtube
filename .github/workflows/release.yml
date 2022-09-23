@@ -5,8 +5,8 @@ on:
       - 'v*'
 
 env:
-  DOCKER_USERNAME: thedoorknobster
-  REPO: thedoorknobster/sample-app
+  DOCKER_USERNAME: bittu321
+  REPO: bittu321/sample-app
 
 jobs:
   docker:
